@@ -1,4 +1,4 @@
-# Maze-solving-with-backtracking
+# This is an implementation of backtracking to solve a maze. 
 
  StringQueueImpl.java / StringStackImpl.java
 
